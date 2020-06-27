@@ -1,0 +1,6 @@
+module Pods_PinsoftTestProject {
+  umbrella header "Pods-PinsoftTestProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
